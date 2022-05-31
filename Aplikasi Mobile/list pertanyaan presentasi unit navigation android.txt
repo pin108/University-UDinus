@@ -1,0 +1,11 @@
+FANI MUBAROK10.38
+Ijin bertanya, fungsi yang digunakan navigasi agar bisa berpindah ke halaman lain itu yang mana ya mas ?
+Dewi Putri Ayuningsih10.44
+Ijin bertanya, itu Berarti tidak ad navHostfragment nya kah?
+
+Yeremia
+contoh implementasi livedata dan apa itu livedata
+
+Instanttaskexecutetorrules mas fungsi itu digunakan sebagai apa ya mas?
+
+	
